@@ -1,6 +1,6 @@
 # {{.Name}} Compliance Program
 
-High-level TODO created by [comply](https://github.com/strongdm/comply)
+High-level TODO created by [comply](https://github.com/paddybyers/comply)
 
 ## Initialization Phase (hours)
 - [ ] Add project to source control

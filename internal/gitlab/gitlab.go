@@ -6,7 +6,7 @@ import (
 	"sync"
 
 	"github.com/pkg/errors"
-	"github.com/strongdm/comply/internal/model"
+	"github.com/paddybyers/comply/internal/model"
 	"github.com/xanzy/go-gitlab"
 )
 
